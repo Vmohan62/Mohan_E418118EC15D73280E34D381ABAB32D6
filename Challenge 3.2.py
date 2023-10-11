@@ -16,13 +16,13 @@ def sort_students(student_list):
 
     return sorted_students
 
-student1 = Student("Banu", "S123", 3.7)
+student1 = Student("Barath", "S123", 3.7)
 
-student2 = Student("Hema", "S124", 3.9)
+student2 = Student("Hemanth", "S124", 3.9)
 
-student3 = Student("Bavani", "S125", 3.5)
+student3 = Student("Balakumar", "S125", 3.5)
 
-student4 = Student("Divya", "S126", 3.8)
+student4 = Student("Darun", "S126", 3.8)
 
 students = [student1, student2, student3, student4]
 
